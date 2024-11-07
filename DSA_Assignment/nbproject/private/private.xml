@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/adt/firstClause.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/entity/Course.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/adt/DoublyLinkedList.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/entity/Tutor.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/control/TutorMaintainence.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/dao/CourseDAO.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/adt/SortedListInterface.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/adt/ListInterface.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/adt/filterClause.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/adt/ArrayList.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/dao/TutorDAO.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/dao/TutorialGroupInitializer.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/dao/CourseInitializer.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/adt/SortedLinkedList.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/entity/TutorialGroup.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/entity/Programme.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/boundary/TutorMaintenanceUI.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/dao/TutorInitializer.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/control/TestTutorialGroup.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/dao/TutorialGroupDAO.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/control/CourseTest.java</file>
+            <file>file:/C:/Users/tankj/Documents/NetBeansProjects/DSA_Assignment/src/control/ModificationRecord.java</file>
+        </group>
+    </open-files>
+</project-private>
