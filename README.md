@@ -1,2 +1,2 @@
 # DataStructure
-Doubly Linked List
+Doubly Linked List - Tutor Management Module
